@@ -1,0 +1,16 @@
+14:27:43 **** Incremental Build of configuration Debug for project PROJ_GREGBLK_PS_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 64252 C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm standalone_ps7_cortexa9_0 C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS_system/Debug/system.bif
+'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+sdcard_gen --xpfm C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm --sys_config design_1_wrapper --bif C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS_system/Debug/system.bif --bitstream C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit --elf C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2024.1/bin/bootgen  -image C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+14:27:51 Build Finished (took 7s.639ms)
+

@@ -1,0 +1,166 @@
+14:14:33 DEBUG : Logs will be stored at 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/IDE.log'.
+14:14:38 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\warwargr\GPROJ_GREGBLK_PS\project_Vitis_GREGBLK_PS\temp_xsdb_launch_script.tcl
+14:14:38 INFO  : Registering command handlers for Vitis TCF services
+14:14:39 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+14:14:39 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+14:14:39 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+14:14:40 INFO  : Platform repository initialization has completed.
+14:14:41 INFO  : XSCT server has started successfully.
+14:14:41 INFO  : plnx-install-location is set to ''
+14:14:41 INFO  : Successfully done setting XSCT server connection channel  
+14:14:42 INFO  : Successfully done query RDI_DATADIR 
+14:14:42 INFO  : Successfully done setting workspace for the tool. 
+14:16:01 INFO  : Result from executing command 'getProjects': design_1_wrapper
+14:16:01 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_202410_1/xilinx_vck190_base_202410_1.xpfm;xilinx_vck190_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_dfx_202410_1/xilinx_vck190_base_dfx_202410_1.xpfm;xilinx_vek280_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_202410_1/xilinx_vek280_base_202410_1.xpfm;xilinx_vek280_base_bdc_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_bdc_202410_1/xilinx_vek280_base_bdc_202410_1.xpfm;xilinx_vmk180_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vmk180_base_202410_1/xilinx_vmk180_base_202410_1.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+14:16:02 WARN  : An unexpected exception occurred in the module 'platform project logging'
+14:16:02 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+14:16:11 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+14:16:56 INFO  : Result from executing command 'getProjects': design_1_wrapper
+14:16:56 INFO  : Result from executing command 'getPlatforms': design_1_wrapper|C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm;xilinx_vck190_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_202410_1/xilinx_vck190_base_202410_1.xpfm;xilinx_vck190_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vck190_base_dfx_202410_1/xilinx_vck190_base_dfx_202410_1.xpfm;xilinx_vek280_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_202410_1/xilinx_vek280_base_202410_1.xpfm;xilinx_vek280_base_bdc_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vek280_base_bdc_202410_1/xilinx_vek280_base_bdc_202410_1.xpfm;xilinx_vmk180_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_vmk180_base_202410_1/xilinx_vmk180_base_202410_1.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+14:16:57 INFO  : Checking for BSP changes to sync application flags for project 'PROJ_GREGBLK_PS'...
+14:17:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:17:22 INFO  : Jtag cable 'Digilent Zybo Z7 210351B7A82FA' is selected.
+14:17:22 INFO  : 'jtag frequency' command is executed.
+14:17:22 INFO  : Context for 'APU' is selected.
+14:17:22 INFO  : System reset is completed.
+14:17:25 INFO  : 'after 3000' command is executed.
+14:17:25 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351B7A82FA" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351B7A82FA-13722093-0"}' command is executed.
+14:17:26 INFO  : Device configured successfully with "C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit"
+14:17:26 INFO  : Context for 'APU' is selected.
+14:17:26 INFO  : Hardware design and registers information is loaded from 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+14:17:26 INFO  : 'configparams force-mem-access 1' command is executed.
+14:17:26 INFO  : Context for 'APU' is selected.
+14:17:26 INFO  : Sourcing of 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/psinit/ps7_init.tcl' is done.
+14:17:27 INFO  : 'ps7_init' command is executed.
+14:17:27 INFO  : 'ps7_post_config' command is executed.
+14:17:27 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:17:27 INFO  : The application 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:17:27 INFO  : 'configparams force-mem-access 0' command is executed.
+14:17:27 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351B7A82FA" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351B7A82FA-13722093-0"}
+fpga -file C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:17:27 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:17:27 INFO  : 'con' command is executed.
+14:17:27 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+14:17:27 INFO  : Launch script is exported to file 'C:\Users\warwargr\GPROJ_GREGBLK_PS\project_Vitis_GREGBLK_PS\PROJ_GREGBLK_PS_system\_ide\scripts\systemdebugger_proj_gregblk_ps_system_standalone.tcl'
+14:20:34 INFO  : Checking for BSP changes to sync application flags for project 'PROJ_GREGBLK_PS'...
+14:20:57 INFO  : Disconnected from the channel tcfchan#3.
+14:20:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:20:58 INFO  : Jtag cable 'Digilent Zybo Z7 210351B7A82FA' is selected.
+14:20:58 INFO  : 'jtag frequency' command is executed.
+14:20:58 INFO  : Context for 'APU' is selected.
+14:20:58 INFO  : System reset is completed.
+14:21:01 INFO  : 'after 3000' command is executed.
+14:21:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351B7A82FA" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351B7A82FA-13722093-0"}' command is executed.
+14:21:02 INFO  : Device configured successfully with "C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit"
+14:21:02 INFO  : Context for 'APU' is selected.
+14:21:02 INFO  : Hardware design and registers information is loaded from 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+14:21:02 INFO  : 'configparams force-mem-access 1' command is executed.
+14:21:02 INFO  : Context for 'APU' is selected.
+14:21:02 INFO  : Sourcing of 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/psinit/ps7_init.tcl' is done.
+14:21:02 INFO  : 'ps7_init' command is executed.
+14:21:02 INFO  : 'ps7_post_config' command is executed.
+14:21:02 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:21:03 INFO  : The application 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:21:03 INFO  : 'configparams force-mem-access 0' command is executed.
+14:21:03 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351B7A82FA" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351B7A82FA-13722093-0"}
+fpga -file C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:21:03 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:21:03 INFO  : 'con' command is executed.
+14:21:03 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+14:21:03 INFO  : Launch script is exported to file 'C:\Users\warwargr\GPROJ_GREGBLK_PS\project_Vitis_GREGBLK_PS\PROJ_GREGBLK_PS_system\_ide\scripts\systemdebugger_proj_gregblk_ps_system_standalone.tcl'
+14:27:42 INFO  : Checking for BSP changes to sync application flags for project 'PROJ_GREGBLK_PS'...
+14:28:02 INFO  : Disconnected from the channel tcfchan#5.
+14:28:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:28:02 INFO  : Jtag cable 'Digilent Zybo Z7 210351B7A82FA' is selected.
+14:28:02 INFO  : 'jtag frequency' command is executed.
+14:28:02 INFO  : Context for 'APU' is selected.
+14:28:03 INFO  : System reset is completed.
+14:28:06 INFO  : 'after 3000' command is executed.
+14:28:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351B7A82FA" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351B7A82FA-13722093-0"}' command is executed.
+14:28:07 INFO  : Device configured successfully with "C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit"
+14:28:07 INFO  : Context for 'APU' is selected.
+14:28:07 INFO  : Hardware design and registers information is loaded from 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+14:28:07 INFO  : 'configparams force-mem-access 1' command is executed.
+14:28:07 INFO  : Context for 'APU' is selected.
+14:28:07 INFO  : Sourcing of 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/psinit/ps7_init.tcl' is done.
+14:28:07 INFO  : 'ps7_init' command is executed.
+14:28:07 INFO  : 'ps7_post_config' command is executed.
+14:28:07 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:28:07 INFO  : The application 'C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:28:07 INFO  : 'configparams force-mem-access 0' command is executed.
+14:28:07 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "Digilent Zybo Z7 210351B7A82FA" && level==0 && jtag_device_ctx=="jsn-Zybo Z7-210351B7A82FA-13722093-0"}
+fpga -file C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}] -regs
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow C:/Users/warwargr/GPROJ_GREGBLK_PS/project_Vitis_GREGBLK_PS/PROJ_GREGBLK_PS/Debug/PROJ_GREGBLK_PS.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:28:07 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:28:08 INFO  : 'con' command is executed.
+14:28:08 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+----------------End of Script----------------
+
+14:28:08 INFO  : Launch script is exported to file 'C:\Users\warwargr\GPROJ_GREGBLK_PS\project_Vitis_GREGBLK_PS\PROJ_GREGBLK_PS_system\_ide\scripts\systemdebugger_proj_gregblk_ps_system_standalone.tcl'
+14:30:58 INFO  : Disconnected from the channel tcfchan#7.
